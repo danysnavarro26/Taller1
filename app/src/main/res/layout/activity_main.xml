@@ -14,7 +14,7 @@
         android:layout_marginBottom="31dp"
         android:text="FORMULA GENERAL"
         android:textColor="#032043"
-        android:textSize="22sp"
+        android:textSize="23sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="parent"
