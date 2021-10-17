@@ -58,6 +58,12 @@
                 android:layout_marginBottom="60dp"
                 android:layout_weight="1"
                 android:text="Ana" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Yordi" />
         </LinearLayout>
     </ScrollView>
 
